@@ -1,0 +1,15 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+certifi==2017.7.27.1
+chardet==3.0.4
+cycler==0.10.0
+idna==2.6
+matplotlib==1.5.3
+numpy==1.11.2
+pocket-api==0.1.5
+pyparsing==2.1.10
+python-dateutil==2.5.3
+pytz==2016.7
+requests==2.18.4
+six==1.10.0
+urllib3==1.22
